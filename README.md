@@ -4,7 +4,7 @@ I am am Astrophysics PhD Student at [Lancaster University](https://www.lancaster
 
 I also regularly take part in outreach sessions with [LUniverse Planetarium](https://www.lancaster.ac.uk/physics/outreach/planetarium/), bringing the wonder of space to schools and the wider public.
 
-Click here to see my CV
+[Click here to see my CV](Curriculum_Vitae.pdf)
 
 ### Contact Me
 
