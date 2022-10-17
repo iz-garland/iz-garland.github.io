@@ -1,4 +1,4 @@
-# Izzy Garland
+# Izzy LM Garland
 
 I am an Astrophysics PhD Student at [Lancaster University](https://www.lancaster.ac.uk/physics/about-us/people/isobelle-garland), working with [Dr. Brooke Simmons](https://www.lancaster.ac.uk/physics/about-us/people/brooke-simmons) on supermassive black growth and AGN fuelling in the absence of major mergers.
 
