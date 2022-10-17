@@ -13,10 +13,9 @@ I regularly take part in outreach sessions with [LUniverse Planetarium](https://
 
 [The most luminous, merger-free AGN show correlation with bar presence but not SFR](AGN_Host_Galaxy_Properties.pdf)
 
-## Girlguiding
+## Personal Life
 I regularly volunteer with [Girlguiding](https://www.girlguiding.org.uk/), starting as an Assistant Brownie leader in 2016, and becoming a fully qualified leader running my own Brownie unit (girls aged 7-10) in 2018. In 2022 I started up a Guide Unit (girls aged 10-14). Being part of Girlguiding lets me try new challenges and push my limits. In the last 6 years, I have taken girls on many day trips and residentials, volunteered at [Wellies and Wristbands](https://www.girlguiding.org.uk/what-we-do/events-and-opportunities/regular-girlguiding-events/wellies-and-wristbands/) (Girlguiding's flagship festival), organised a sleepover for our entire district in Lancaster Library (72 young members and 17 adults), earned my [camping license](https://www.girlguiding.org.uk/making-guiding-happen/learning-and-development/training-for-travel-and-residentials/going-away-with-scheme/) and started my [Queen's Guide Award](https://www.girlguiding.org.uk/what-we-do/our-badges-and-activities/badge-finder/queens-guide-award/).
 
-## Personal Life
 I am an avid music fan, and can often be found listening to local bands in Lancaster's pubs with a pint of cider in hand. Lancaster Music Festival is one of my favourite weekends of the year, I love hearing new bands for the first time. I play a handful of instruments myself, including guitar, piano and mandola.
 
 I enjoy baking and cooking, and will be the first to offer to bring cakes to social meet-ups and Great British Bake Off parties (although mine don't look quite as beautiful as some of the things they make).
