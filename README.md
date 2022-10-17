@@ -1,7 +1,7 @@
 # Izzy Lilian M Garland
 
 ## About Me
-I am a fourth year Astrophysics PhD Student at [Lancaster University](https://www.lancaster.ac.uk/physics/about-us/people/isobelle-garland), working with [Dr. Brooke Simmons](https://www.lancaster.ac.uk/physics/about-us/people/brooke-simmons) on supermassive black growth and AGN fuelling in the absence of major mergers.
+I am a fourth year Astrophysics PhD Student at [Lancaster University](https://www.lancaster.ac.uk/physics/about-us/people/isobelle-garland), working with [Dr. Brooke Simmons](https://www.lancaster.ac.uk/physics/about-us/people/brooke-simmons) on supermassive black growth and AGN fuelling in the absence of major mergers. I would love to give seminars at different institutes, so please contact me!
 
 I regularly take part in outreach sessions with [LUniverse Planetarium](https://www.lancaster.ac.uk/physics/outreach/planetarium/), bringing the wonder of space to schools and the wider public. We provide a 30 minute immersive tour of the solar system in the planetarium, and run crafts where children can design their own planet. This gets them to think imaginatively about what sort of planet humans could survive on.
 
