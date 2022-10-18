@@ -9,6 +9,7 @@ I regularly take part in outreach sessions with [LUniverse Planetarium](https://
 
 ## Works and Works in Progress
 [Published Peer-Reviewed Papers](https://ui.adsabs.harvard.edu/search/filter_property_fq_property=AND&filter_property_fq_property=property%3A%22refereed%22&fq=%7B!type%3Daqp%20v%3D%24fq_property%7D&fq_property=(property%3A%22refereed%22)&q=%20author%3A%22garland%2C%20i%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+
 [The most luminous, merger-free AGN show correlation with bar presence but not SFR](AGN_Host_Galaxy_Properties.pdf)
 
 ## Personal Life
