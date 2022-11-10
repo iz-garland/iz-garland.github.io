@@ -1,14 +1,16 @@
 # Izzy L. Garland
 
 ## About Me
-I am a fourth year Astrophysics PhD Student at [Lancaster University](https://www.lancaster.ac.uk/physics/about-us/people/isobelle-garland), working with [Dr. Brooke Simmons](https://www.lancaster.ac.uk/physics/about-us/people/brooke-simmons) on supermassive black growth and AGN fuelling in the absence of major mergers. I would love to give seminars at different institutes, so please contact me!
+I am a fourth year Astrophysics PhD Student at [Lancaster University](https://www.lancaster.ac.uk/physics/about-us/people/isobelle-garland), working with [Dr. Brooke Simmons](https://www.lancaster.ac.uk/physics/about-us/people/brooke-simmons) on supermassive black growth and AGN fuelling in the absence of major mergers. My current work uses spectra and photometry to look at the interplay between large-scale galactic bars on AGN. I would love to give seminars at different institutes, so please contact me!
 
-I regularly take part in outreach sessions with [LUniverse Planetarium](https://www.lancaster.ac.uk/physics/outreach/planetarium/), bringing the wonder of space to schools and the wider public. We provide a 30 minute immersive tour of the solar system in the planetarium, and run crafts where children can design their own planet. This gets them to think imaginatively about what sort of planet humans could survive on.
+I am part of the [Galaxy Zoo](https://www.zooniverse.org/projects/zookeeper/galaxy-zoo/) collaboration, a project that invites volunteers to aid in classification of galaxy morphology - check out the newest project on Hawaii Two-0 data, part of the larger Cosmic Dawn survey.
+
+I regularly take part in outreach sessions with [LUniverse Planetarium](https://www.lancaster.ac.uk/physics/outreach/planetarium/), bringing the wonder of space to schools and the wider public. We provide a 30 minute immersive tour of the solar system in the planetarium, and run crafts where children can design their own planet. This gets them to think imaginatively about what sort of planet humans could survive on. I've also been part of the Planetarium Team at events for the wider public, such as showcasing [brand new JWST images](https://www.lancaster.ac.uk/news/lancaster-university-chosen-to-showcase-first-ever-colour-images-of-early-universe-in-morecambe) in July 2022, and [UlverSTEM](https://fesp.org.uk/ulverstem/), a science festival for people living in and around Ulverston, Cumbria.
 
 [CV](Curriculum_Vitae.pdf)
 
 ## Works and Works in Progress
-[Published Peer-Reviewed Papers](https://ui.adsabs.harvard.edu/search/filter_property_fq_property=AND&filter_property_fq_property=property%3A%22refereed%22&fq=%7B!type%3Daqp%20v%3D%24fq_property%7D&fq_property=(property%3A%22refereed%22)&q=%20author%3A%22garland%2C%20i%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+[Published Peer-Reviewed Papers](https://ui.adsabs.harvard.edu/search/filter_property_fq_property=AND&filter_property_fq_property=property%3A%22refereed%22&fq=%7B!type%3Daqp%20v%3D%24fq_property%7D&fq_property=(property%3A%22refereed%22)&q=%20author%3A%22garland%2C%20izzy%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 
 [The most luminous, merger-free AGN show correlation with bar presence but not SFR](AGN_Host_Galaxy_Properties.pdf)
 
