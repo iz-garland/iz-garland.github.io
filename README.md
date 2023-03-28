@@ -1,7 +1,7 @@
 # Izzy L. Garland
 
 ## About Me
-I am a fourth year Astrophysics PhD Student at [Lancaster University](https://www.lancaster.ac.uk/physics/about-us/people/isobelle-garland), working with [Dr. Brooke Simmons](https://www.lancaster.ac.uk/physics/about-us/people/brooke-simmons) on supermassive black growth and AGN fuelling in the absence of major mergers. My current work uses spectra and photometry to look at the interplay between large-scale galactic bars and AGN. I would love to give seminars at different institutes, so please contact me!
+I am a fourth year Astrophysics PhD Student at [Lancaster University](https://www.lancaster.ac.uk/physics/about-us/people/isobelle-garland), working with [Dr. Brooke Simmons](https://www.lancaster.ac.uk/physics/about-us/people/brooke-simmons) on supermassive black growth and AGN fuelling in the absence of major mergers. My most recent work uses spectra and photometry to look at the interplay between large-scale galactic bars and AGN. I am currently working with data from the IRAM-30m telescope to investigate the cool molecular gas content of a subsample of bulgeless, AGN-host galaxies. I would love to give seminars at different institutes, so please contact me!
 
 I am part of the [Galaxy Zoo](https://www.zooniverse.org/projects/zookeeper/galaxy-zoo/) collaboration, a project that invites volunteers to aid in classification of galaxy morphology - check out the newest project on Hawaii Two-0 data, part of the larger Cosmic Dawn survey.
 
