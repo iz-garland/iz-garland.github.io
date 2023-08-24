@@ -7,6 +7,8 @@ I am part of the [Galaxy Zoo](https://www.zooniverse.org/projects/zookeeper/gala
 
 I regularly take part in outreach sessions with [LUniverse Planetarium](https://www.lancaster.ac.uk/physics/outreach/planetarium/), bringing the wonder of space to schools and the wider public. We provide a 30 minute immersive tour of the solar system in the planetarium, and run crafts where children can design their own planet. This gets them to think imaginatively about what sort of planet humans could survive on. I've also been part of the Planetarium Team at events for the wider public, such as showcasing [brand new JWST images](https://www.lancaster.ac.uk/news/lancaster-university-chosen-to-showcase-first-ever-colour-images-of-early-universe-in-morecambe) in July 2022, and [UlverSTEM](https://fesp.org.uk/ulverstem/), a science festival for people living in and around Ulverston, Cumbria.
 
+I use they/them pronouns.
+
 [CV](Curriculum_Vitae.pdf)
 
 ## Works and Works in Progress
@@ -15,16 +17,16 @@ I regularly take part in outreach sessions with [LUniverse Planetarium](https://
 [Galaxy Zoo DESI: large-scale bars as a secular mechanism for triggering AGN](GZ_DESI_Bars_and_AGN.pdf)
 
 ## Additional Science Activities
-I co-convened the session at NAM2023 on [AGN Demographics and Evolution in the Era of Large-Scale Surveys](https://nam2023.org/science/parallel-sessions/details/2/15), and whilst attending, also decided to organise (in less that 48 hours) a [lunch session](https://nam2023.org/science/block-schedule-dpcalendar/csl-lunch-session-lgbtq-networking-lunch) designed to help LGBTQ+ astronomers with networking.
+I co-convened the session at NAM2023 on [AGN Demographics and Evolution in the Era of Large-Scale Surveys](https://nam2023.org/science/parallel-sessions/details/2/15), and whilst attending, also decided to organise (in less that 48 hours) a [lunch session](https://nam2023.org/science/block-schedule-dpcalendar/csl-lunch-session-lgbtq-networking-lunch) designed to help LGBTQ+ astronomers with networking. 
 
 I have previously given a seminar at the [University of St. Andrews (UK)](https://astronomy.wp.st-andrews.ac.uk/talks/). I have further seminars lined up through September at Gröningen, Firenze, Bologna, Zurich, Innsbruck and Barcelona, and in February at Hertfordshire.
 
 ## Personal Life
-I regularly volunteer with [Girlguiding](https://www.girlguiding.org.uk/), starting as an Assistant Brownie leader in 2016, and becoming a fully qualified leader running my own Brownie unit (girls aged 7-10) in 2018. In 2022 I started up a Guide Unit (girls aged 10-14). Being part of Girlguiding lets me try new challenges and push my limits. In the last 7 years, I have taken girls on many day trips and residentials, volunteered at [Wellies and Wristbands](https://www.girlguiding.org.uk/what-we-do/events-and-opportunities/regular-girlguiding-events/wellies-and-wristbands/) (Girlguiding's flagship festival), organised a sleepover for our entire district in Lancaster Library (72 young members and 17 adults) and earned my [camping license](https://www.girlguiding.org.uk/making-guiding-happen/learning-and-development/training-for-travel-and-residentials/going-away-with-scheme/).
+I regularly volunteer with [Girlguiding](https://www.girlguiding.org.uk/), starting as an Assistant Brownie leader in 2016, and becoming a fully qualified leader running my own Brownie unit (girls aged 7-10) in 2018. In 2022 I started up a Guide Unit (girls aged 10-14), and in September 2023 I became District Commissioner of our local area. Being part of Girlguiding lets me try new challenges and push my limits. In the last 7 years, I have taken young members on many day trips and residentials, volunteered at [Wellies and Wristbands](https://www.girlguiding.org.uk/what-we-do/events-and-opportunities/regular-girlguiding-events/wellies-and-wristbands/) (Girlguiding's flagship festival), organised a sleepover for our entire district in Lancaster Library (72 young members and 17 adults) and earned my [camping license](https://www.girlguiding.org.uk/making-guiding-happen/learning-and-development/training-for-travel-and-residentials/going-away-with-scheme/).
 
 I am an avid music fan, and can often be found listening to local bands in Lancaster's pubs with a pint of cider in hand. Lancaster Music Festival is one of my favourite weekends of the year, I love hearing new bands for the first time. I play a handful of instruments myself, including guitar, piano and mandola.
 
-I enjoy baking and cooking, and will be the first to offer to bring cakes to social meet-ups and Great British Bake Off parties (although mine don't look quite as beautiful as some of the things they make).
+I am always seeking book recommendations! I love reading historical fiction, particularly about women in the Plantagenet and Tudor eras. I'm currently reading [The Marriage Game](https://www.goodreads.com/book/show/22291586-the-marriage-game?ref=nav_sb_ss_5_13), by Alison Weir.
 
 ### Contact Me
 Email: i.garland@lancaster.ac.uk
