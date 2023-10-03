@@ -10,7 +10,7 @@ I use they/them pronouns.
 [CV](Curriculum_Vitae.pdf)
 
 ## Works and Works in Progress
-[Published Peer-Reviewed Papers](https://ui.adsabs.harvard.edu/search/filter_property_fq_property=AND&filter_property_fq_property=property%3A%22refereed%22&fq=%7B!type%3Daqp%20v%3D%24fq_property%7D&fq_property=(property%3A%22refereed%22)&q=%20author%3A%22garland%2C%20izzy%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+[Published Peer-Reviewed Papers](https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=OR&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FGarland%2C%20I%2FGarland%2C%20I%20%20L%22&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FGarland%2C%20I%2FGarland%2C%20Izzy%20L%22&filter_property_fq_property=AND&filter_property_fq_property=property%3A%22refereed%22&fq=%7B!type%3Daqp%20v%3D%24fq_property%7D&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FGarland%2C%20I%2FGarland%2C%20I%20%20L%22%20OR%20author_facet_hier%3A%221%2FGarland%2C%20I%2FGarland%2C%20Izzy%20L%22)&fq_property=(property%3A%22refereed%22)&p_=0&q=%20author%3A%22garland%2C%20izzy%22&sort=date%20desc%2C%20bibcode%20desc)
 
 [Galaxy Zoo DESI: large-scale bars as a secular mechanism for triggering AGN](GZ_DESI_Bars_and_AGN.pdf)
 
