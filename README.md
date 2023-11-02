@@ -33,7 +33,9 @@ I am always seeking book recommendations! I love reading historical fiction, par
 
 ### Contact Me
 Email: i.garland@lancaster.ac.uk
+
 Bluesky: @izgarland.bsky.social
+
 Twitter: [@Iz_garland](https://twitter.com/Iz_garland/)
 
 <!--### Markdown
