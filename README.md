@@ -29,7 +29,7 @@ I regularly volunteer with [Girlguiding](https://www.girlguiding.org.uk/), start
 
 I am an avid music fan, and can often be found listening to local bands in Lancaster's pubs with a pint of cider in hand. Lancaster Music Festival is one of my favourite weekends of the year, I love hearing new bands for the first time. I play a handful of instruments myself, including guitar, piano and mandola.
 
-I am always seeking book recommendations! I love reading historical fiction, particularly about women in the Plantagenet and Tudor eras. I'm currently reading [Skulduggery Pleasent](https://www.goodreads.com/book/show/284440.Skulduggery_Pleasant), by Derek Landy.
+I am always seeking book recommendations! I love reading historical fiction, particularly about women in the Plantagenet and Tudor eras. I'm currently reading 2001: A Space Odyssey by Arthur C. Clarke.
 
 ### Contact Me
 Email: i.garland@lancaster.ac.uk
