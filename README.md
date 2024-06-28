@@ -1,7 +1,9 @@
 # Izzy L. Garland
 
 ## About Me
-I am a final year Astrophysics PhD Student at [Lancaster University](https://www.lancaster.ac.uk/physics/about-us/people/isobelle-garland), working with [Dr. Brooke Simmons](https://www.lancaster.ac.uk/physics/about-us/people/brooke-simmons) on supermassive black growth and AGN fuelling in the absence of major mergers. My most recent work uses spectra and photometry to look at the interplay between large-scale galactic bars and AGN. I am currently working with data from Galaxy Zoo DESI, and analysing how the AGN fraction in strongly barred, weakly barred and unbarred galaxies compares. I talking about my work at different institutes, so please contact me!
+I am a Astrophysicist having just finished my PhD at [Lancaster University](https://www.lancaster.ac.uk/physics/about-us/people/isobelle-garland), working with [Dr. Brooke Simmons](https://www.lancaster.ac.uk/physics/about-us/people/brooke-simmons) on supermassive black growth and AGN fuelling in the absence of major mergers. My most recent work uses data from Galaxy Zoo DESI, and analyses how the AGN fraction in strongly barred, weakly barred and unbarred galaxies compares. I love talking about my work at different institutes, so please contact me!
+
+In September, I will be starting a postdoctoral position at [Masaryk University](https://hea.physics.muni.cz/) working with Dr. Michal Zajaček.
 
 I am part of the [Galaxy Zoo](https://www.zooniverse.org/projects/zookeeper/galaxy-zoo/) collaboration, a project that invites volunteers to aid in classification of galaxy morphology - check out the newest project on Hawaii Two-0 data, part of the larger Cosmic Dawn survey.
 
@@ -29,7 +31,7 @@ I regularly volunteer with [Girlguiding](https://www.girlguiding.org.uk/), start
 
 I am an avid music fan, and can often be found listening to local bands in Lancaster's pubs with a pint of cider in hand. Lancaster Music Festival is one of my favourite weekends of the year, I love hearing new bands for the first time. I play a handful of instruments myself, including guitar, piano and mandola.
 
-I am always seeking book recommendations! I love reading historical fiction, particularly about women in the Plantagenet and Tudor eras. I'm currently reading 2001: A Space Odyssey by Arthur C. Clarke.
+I am always seeking book recommendations! I love reading historical fiction, particularly about women in the Plantagenet and Tudor eras. I'm currently reading The Gentleman's Guide to Vice and Virtue by Mackenzi Lee.
 
 ### Contact Me
 Email: i.garland@lancaster.ac.uk
