@@ -14,7 +14,7 @@ My pronouns are they/them
 ## Works and Works in Progress
 [Published Peer-Reviewed Papers](https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=OR&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FGarland%2C%20I%2FGarland%2C%20I%20%20L%22&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FGarland%2C%20I%2FGarland%2C%20Izzy%20L%22&filter_property_fq_property=AND&filter_property_fq_property=property%3A%22refereed%22&fq=%7B!type%3Daqp%20v%3D%24fq_property%7D&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FGarland%2C%20I%2FGarland%2C%20I%20%20L%22%20OR%20author_facet_hier%3A%221%2FGarland%2C%20I%2FGarland%2C%20Izzy%20L%22)&fq_property=(property%3A%22refereed%22)&p_=0&q=%20author%3A%22garland%2C%20izzy%22&sort=date%20desc%2C%20bibcode%20desc)
 
-Check out my most recent work, [Galaxy Zoo DESI: large-scale bars as a secular mechanism for triggering AGN](https://arxiv.org/pdf/2406.20096), accepted for publication in MNRAS.
+Check out my most recent work, [Galaxy Zoo DESI: large-scale bars as a secular mechanism for triggering AGN](https://arxiv.org/pdf/2406.20096), published in MNRAS.
 
 ## Additional Science Activities
 I co-convened the session at NAM2023 on [AGN Demographics and Evolution in the Era of Large-Scale Surveys](https://nam2023.org/science/parallel-sessions/details/2/15), and whilst attending, also decided to organise (in less that 48 hours, along with [Dr. Steph Campbell](https://astrostephcampbell.wordpress.com/)) a [lunch session](https://nam2023.org/science/block-schedule-dpcalendar/csl-lunch-session-lgbtq-networking-lunch) designed to help LGBTQ+ astronomers with networking.
