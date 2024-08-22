@@ -1,13 +1,13 @@
-# Izzy L. Garland
+# Dr. Izzy L. Garland
 
 ## About Me
-I am a Astrophysicist having just finished my PhD at [Lancaster University](https://www.lancaster.ac.uk/physics/about-us/people/isobelle-garland), working with [Dr. Brooke Simmons](https://www.lancaster.ac.uk/physics/about-us/people/brooke-simmons) on supermassive black growth and AGN fuelling in the absence of major mergers. My most recent work uses data from Galaxy Zoo DESI, and analyses how the AGN fraction in strongly barred, weakly barred and unbarred galaxies compares. I love talking about my work at different institutes, so please contact me!
+I am a postdoc at [Masaryk University](https://hea.physics.muni.cz/) working with Dr. Michal Zajaček on supermassive black growth and AGN fuelling in the absence of major mergers. My most recent work uses data from Galaxy Zoo DESI, and analyses how the AGN fraction in strongly barred, weakly barred and unbarred galaxies compares. I love talking about my work at different institutes, so please contact me!
 
-In September, I will be starting a postdoctoral position at [Masaryk University](https://hea.physics.muni.cz/) working with Dr. Michal Zajaček.
+In August 2024, I finished my PhD at [Lancaster University](https://www.lancaster.ac.uk/physics/about-us/people/isobelle-garland), working with [Dr. Brooke Simmons](https://www.lancaster.ac.uk/physics/about-us/people/brooke-simmons).
 
 I am part of the [Galaxy Zoo](https://www.zooniverse.org/projects/zookeeper/galaxy-zoo/) collaboration, a project that invites volunteers to aid in classification of galaxy morphology - check out the newest project on Hawaii Two-0 data, part of the larger Cosmic Dawn survey.
 
-I use they/them pronouns.
+My pronouns are they/them
 
 [CV](Curriculum_Vitae.pdf)
 
@@ -17,24 +17,28 @@ I use they/them pronouns.
 Check out my most recent work, [Galaxy Zoo DESI: large-scale bars as a secular mechanism for triggering AGN](https://arxiv.org/pdf/2406.20096), accepted for publication in MNRAS.
 
 ## Additional Science Activities
-I co-convened the session at NAM2023 on [AGN Demographics and Evolution in the Era of Large-Scale Surveys](https://nam2023.org/science/parallel-sessions/details/2/15), and whilst attending, also decided to organise (in less that 48 hours, along with [Dr. Steph Campbell](https://astrostephcampbell.wordpress.com/)) a [lunch session](https://nam2023.org/science/block-schedule-dpcalendar/csl-lunch-session-lgbtq-networking-lunch) designed to help LGBTQ+ astronomers with networking. 
+I co-convened the session at NAM2023 on [AGN Demographics and Evolution in the Era of Large-Scale Surveys](https://nam2023.org/science/parallel-sessions/details/2/15), and whilst attending, also decided to organise (in less that 48 hours, along with [Dr. Steph Campbell](https://astrostephcampbell.wordpress.com/)) a [lunch session](https://nam2023.org/science/block-schedule-dpcalendar/csl-lunch-session-lgbtq-networking-lunch) designed to help LGBTQ+ astronomers with networking.
+
+I convened the LGBTQ+ Networking Lunch at [IAU General Assembly](https://astronomy2024.org/), which ran in a similar fashion to the one at NAM the previous year, but for an international audience.
 
 I have previously given seminars at the University of St. Andrews (UK), University of Groningen (The Netherlands), INAF-Arcetri (Italy), INAF-OAS (Italy), University of Zurich (Switzerland), University of Innsbruck (Austria), ICE-CSIC (Spain) and Hertfordshire (UK). You can watch my most recent seminar [here](https://www.youtube.com/watch?v=qUVwc3ehZhE).
 
 ## Teaching and Outreach
-I enjoy taking part in outreach sessions with [LUniverse Planetarium](https://www.lancaster.ac.uk/physics/outreach/planetarium/), bringing the wonder of space to schools and the wider public. We provide a 30 minute immersive tour of the solar system in the planetarium, and run crafts where children can design their own planet. This gets them to think imaginatively about what sort of planet humans could survive on. I've also been part of the Planetarium Team at events for the wider public, such as showcasing [brand new JWST images](https://www.lancaster.ac.uk/news/lancaster-university-chosen-to-showcase-first-ever-colour-images-of-early-universe-in-morecambe) in July 2022, and [UlverSTEM](https://fesp.org.uk/ulverstem/), a science festival for people living in and around Ulverston, Cumbria.
+I enjoyed taking part in outreach sessions with [LUniverse Planetarium](https://www.lancaster.ac.uk/physics/outreach/planetarium/), bringing the wonder of space to schools and the wider public. We provided a 30 minute immersive tour of the solar system in the planetarium, and run crafts where children can design their own planet. This gets them to think imaginatively about what sort of planet humans could survive on. I've also been part of the Planetarium Team at events for the wider public, such as showcasing [brand new JWST images](https://www.lancaster.ac.uk/news/lancaster-university-chosen-to-showcase-first-ever-colour-images-of-early-universe-in-morecambe) in July 2022, and [UlverSTEM](https://fesp.org.uk/ulverstem/), a science festival for people living in and around Ulverston, Cumbria.
 
-I have previously worked as a Post-Graduate Teaching Assistant at Lancaster for modules PHYS133, PHYS134, PHYS135 (Practical Laboratory I, II, III), PHYS264 (Astrophysics I), and PHYS322 (Statistical Physics). I have also co-supervised a number of MPhys students, including A. Imaz-Blanco, M. Silcock, and L. Potts.
+I have previously worked as a Post-Graduate Teaching Assistant at Lancaster for modules PHYS133, PHYS134, PHYS135 (Practical Laboratory I, II, III), PHYS264 (Astrophysics I), PHYS322 (Statistical Physics) and PHYS363 (Astrophysics Laboratory). I have also co-supervised a number of MPhys students, including A. Imaz-Blanco, M. Silcock, and L. Potts.
+
+The techniques we develop in Astronomy have a wide range of applications, and I have previously been part of the [Planetary Response Network](https://www.crowd4sat.org/planetary-response), which uses volunteer citizen sciencists to identify areas needing emergency assistance in natural disasters, such as blocked roads or temporary structures where people may be taking shelter. Currently, the team are asking for help mapping areas at risk of flooding in Sudan. If you have 15 minutes to help, [go and check out the project](https://www.zooniverse.org/projects/alicemead/sudan-road-access-logistics-cluster), no prior experience needed.
 
 ## Personal Life
-I regularly volunteer with [Girlguiding](https://www.girlguiding.org.uk/), starting as an Assistant Brownie leader in 2016, and becoming a fully qualified leader in 2018 running my own Brownie unit (girls aged 7-10) in 2018. In 2022 I started up a Guide Unit (girls aged 10-14), and in September 2023 I became District Commissioner of our local area. Being part of Girlguiding lets me try new challenges and push my limits. In the last 7 years, I have taken young members on many day trips and residentials, volunteered at [Wellies and Wristbands](https://www.girlguiding.org.uk/what-we-do/events-and-opportunities/regular-girlguiding-events/wellies-and-wristbands/) (Girlguiding's flagship festival), organised a sleepover for our entire district in Lancaster Library (72 young members and 17 adults) and earned my [camping license](https://www.girlguiding.org.uk/making-guiding-happen/learning-and-development/training-for-travel-and-residentials/going-away-with-scheme/).
+I regularly volunteered with [Girlguiding](https://www.girlguiding.org.uk/), starting as an Assistant Brownie leader in 2016, and becoming a fully qualified leader in 2018 running my own Brownie unit (girls aged 7-10) in 2018. In 2022 I started up a Guide Unit (girls aged 10-14), and in September 2023 I became District Commissioner of our local area. Being part of Girlguiding lets me try new challenges and push my limits. In the last 7 years, I have taken young members on many day trips and residentials, volunteered at [Wellies and Wristbands](https://www.girlguiding.org.uk/what-we-do/events-and-opportunities/regular-girlguiding-events/wellies-and-wristbands/) (Girlguiding's flagship festival), organised a sleepover for our entire district in Lancaster Library (72 young members and 17 adults) and earned my [camping license](https://www.girlguiding.org.uk/making-guiding-happen/learning-and-development/training-for-travel-and-residentials/going-away-with-scheme/).
 
 I am an avid music fan, and can often be found listening to local bands in Lancaster's pubs with a pint of cider in hand. Lancaster Music Festival is one of my favourite weekends of the year, I love hearing new bands for the first time. I play a handful of instruments myself, including guitar, piano and mandola.
 
-I am always seeking book recommendations! I love reading historical fiction, particularly about women in the Plantagenet and Tudor eras. I'm currently reading The Lady's Guide to Petticoats and Piracy by Mackenzi Lee.
+I am always seeking book recommendations! I love reading historical fiction, particularly about women in the Plantagenet and Tudor eras. I'm currently reading The Dragonfly Pool by Eva Ibbotson
 
 ### Contact Me
-Email: i.garland@lancaster.ac.uk
+Email: garland@mail.muni.cz
 
 Bluesky: [@izgarland.bsky.social](https://bsky.app/profile/izgarland.bsky.social)
 
