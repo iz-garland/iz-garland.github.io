@@ -7,14 +7,14 @@ In August 2024, I finished my PhD at [Lancaster University](https://www.lancaste
 
 I am part of the [Galaxy Zoo](https://www.zooniverse.org/projects/zookeeper/galaxy-zoo/) collaboration, a project that invites volunteers to aid in classification of galaxy morphology - check out the newest project using Euclid data, high resolution mapping of two thirds of our sky.
 
-My pronouns are they/them
+My pronouns are they/them.
 
-[CV](Curriculum_Vitae.pdf)
+[Curriculum Vitae](Curriculum_Vitae.pdf)
 
 ## Works and Works in Progress
-[Published Peer-Reviewed Papers](https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=OR&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FGarland%2C%20I%2FGarland%2C%20I%20%20L%22&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FGarland%2C%20I%2FGarland%2C%20Izzy%20L%22&filter_property_fq_property=AND&filter_property_fq_property=property%3A%22refereed%22&fq=%7B!type%3Daqp%20v%3D%24fq_property%7D&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FGarland%2C%20I%2FGarland%2C%20I%20%20L%22%20OR%20author_facet_hier%3A%221%2FGarland%2C%20I%2FGarland%2C%20Izzy%20L%22)&fq_property=(property%3A%22refereed%22)&p_=0&q=%20author%3A%22garland%2C%20izzy%22&sort=date%20desc%2C%20bibcode%20desc)
+[Published Peer-Reviewed Papers](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-3887-6433&sort=date+desc)
 
-Check out my most recent work, [Galaxy Zoo DESI: large-scale bars as a secular mechanism for triggering AGN](https://watermark.silverchair.com/stae1620.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA1YwggNSBgkqhkiG9w0BBwagggNDMIIDPwIBADCCAzgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMQA5KeqoyunivrZWGAgEQgIIDCY_hBLpMtEI5NyDUJCqZ-DNsP2osoTmCopOW3WPNhz1SZBJwf9o17GyP5qdpS8ii-tG7_BnB9diok-8NIhRjg5OeHaT-ehXy5cSzrvCkLT2EX-6pVD6VGB-65br7JFu8ONJUOZ0yVNgVARrBxWHh36jEw-T6jZscz77mfPmvUh1hGisJ1pihMGtXqiuKK95peRSuJ2iCnyeXUVT9kov25aNjCww15sPSd-Q4CqymujUOcnBLAUoPMqKUSOWjwx1YpeJZej_BS95q016zdSAla7JZmfS5gLVqMDyHTj_d2Iw_a1aTY12hyVKwzLOaLXOkn8BMRBEHKfW17iTcAUe6t9cHL-o8u5g7Rx_E_kVS2KF2IbpLtOdxXEzSEmMGZLKUG0m9-fAm0d4XhEEPfDZ9Ciq8s81jblqiAT7SiYLGmSn9iUUp8Rh_An1r6nfWdRmhCUC8Gpsfe7pcwPbzu__rIQ1AR7gEUMF-vYieCjkAxQsmyg1etJflvn8_X19JgjLIacDYeWa9KpVyd87AkolfR7zgB0aCbg3LGY2ldhw-VkyrFVPKNw4LeQQfRn9MT2spJhpS6_IsDQ2V7JSv4mu1Wqi0MQti7Uyqjrj7E0XlQw-iiPMYDxvNj5cn8-1hW_v5dfhAhOVUtiwHiX1vOaaRq__64ekrXGVp4YKDvmnumbXT8rzkjbLP4sbjOb8I41H2fwAOhRZpto_DB2_tQwgwrCOChhNLeRJGAueZWQzcSlSxZlugwIYpKaf3XTkyaPFn7vxyn2k2uRmMl2NarEvhrZydtE1NgpJsdfIeedcm7N6WzgAUVYCA6x01sjCtq44VQw14xXoELfQdooLh0dpcpGObIqwuqWLUM7oakVl9xEtoX6nl7D5Z4XlqGTBoiPYdeZt0TplD52fQzYUi_LUD76CIXjD_rCdB3OvBHvemOzlAMKXxRyqc_YNh3tfwcaIEJNMp6RpSnOwb90-8HMcKmtJqV-0_6ZVpdu00XfI7AaMcNhOrvCYbY5jFquomX2OnA9GPAOLXmJIpdQ), published in MNRAS.
+Check out my most recent published work, [Galaxy Zoo DESI: large-scale bars as a secular mechanism for triggering AGN](https://watermark.silverchair.com/stae1620.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA1YwggNSBgkqhkiG9w0BBwagggNDMIIDPwIBADCCAzgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMQA5KeqoyunivrZWGAgEQgIIDCY_hBLpMtEI5NyDUJCqZ-DNsP2osoTmCopOW3WPNhz1SZBJwf9o17GyP5qdpS8ii-tG7_BnB9diok-8NIhRjg5OeHaT-ehXy5cSzrvCkLT2EX-6pVD6VGB-65br7JFu8ONJUOZ0yVNgVARrBxWHh36jEw-T6jZscz77mfPmvUh1hGisJ1pihMGtXqiuKK95peRSuJ2iCnyeXUVT9kov25aNjCww15sPSd-Q4CqymujUOcnBLAUoPMqKUSOWjwx1YpeJZej_BS95q016zdSAla7JZmfS5gLVqMDyHTj_d2Iw_a1aTY12hyVKwzLOaLXOkn8BMRBEHKfW17iTcAUe6t9cHL-o8u5g7Rx_E_kVS2KF2IbpLtOdxXEzSEmMGZLKUG0m9-fAm0d4XhEEPfDZ9Ciq8s81jblqiAT7SiYLGmSn9iUUp8Rh_An1r6nfWdRmhCUC8Gpsfe7pcwPbzu__rIQ1AR7gEUMF-vYieCjkAxQsmyg1etJflvn8_X19JgjLIacDYeWa9KpVyd87AkolfR7zgB0aCbg3LGY2ldhw-VkyrFVPKNw4LeQQfRn9MT2spJhpS6_IsDQ2V7JSv4mu1Wqi0MQti7Uyqjrj7E0XlQw-iiPMYDxvNj5cn8-1hW_v5dfhAhOVUtiwHiX1vOaaRq__64ekrXGVp4YKDvmnumbXT8rzkjbLP4sbjOb8I41H2fwAOhRZpto_DB2_tQwgwrCOChhNLeRJGAueZWQzcSlSxZlugwIYpKaf3XTkyaPFn7vxyn2k2uRmMl2NarEvhrZydtE1NgpJsdfIeedcm7N6WzgAUVYCA6x01sjCtq44VQw14xXoELfQdooLh0dpcpGObIqwuqWLUM7oakVl9xEtoX6nl7D5Z4XlqGTBoiPYdeZt0TplD52fQzYUi_LUD76CIXjD_rCdB3OvBHvemOzlAMKXxRyqc_YNh3tfwcaIEJNMp6RpSnOwb90-8HMcKmtJqV-0_6ZVpdu00XfI7AaMcNhOrvCYbY5jFquomX2OnA9GPAOLXmJIpdQ), in MNRAS.
 
 ## Additional Science Activities
 I co-convened the session at NAM2023 on [AGN Demographics and Evolution in the Era of Large-Scale Surveys](https://nam2023.org/science/parallel-sessions/details/2/15), and whilst attending, also decided to organise (in less that 48 hours, along with [Dr. Steph Campbell](https://astrostephcampbell.wordpress.com/)) a [lunch session](https://nam2023.org/science/block-schedule-dpcalendar/csl-lunch-session-lgbtq-networking-lunch) designed to help LGBTQ+ astronomers with networking.
@@ -35,7 +35,7 @@ I regularly volunteered with [Girlguiding](https://www.girlguiding.org.uk/), sta
 
 I am an avid music fan, and can often be found listening to local bands in Lancaster's pubs with a pint of cider in hand. Lancaster Music Festival is one of my favourite weekends of the year, I love hearing new bands for the first time. I play a handful of instruments myself, including guitar, piano and mandola.
 
-I am always seeking book recommendations! I love reading historical fiction, particularly about women in the Plantagenet and Tudor eras. I'm currently reading The Dragonfly Pool by Eva Ibbotson
+I am always seeking book recommendations! I love reading historical fiction, particularly about women in the Plantagenet and Tudor eras. I'm currently reading Outlander by Diana Gabaldon.
 
 ### Contact Me
 Email: garland@mail.muni.cz
