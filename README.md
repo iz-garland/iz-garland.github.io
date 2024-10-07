@@ -5,7 +5,7 @@ I am a postdoc at [Masaryk University](https://hea.physics.muni.cz/people/izzy.h
 
 In August 2024, I finished my PhD at [Lancaster University](https://www.lancaster.ac.uk/physics/about-us/people/isobelle-garland), working with [Dr. Brooke Simmons](https://www.lancaster.ac.uk/physics/about-us/people/brooke-simmons).
 
-I am part of the [Galaxy Zoo](https://www.zooniverse.org/projects/zookeeper/galaxy-zoo/) collaboration, a project that invites volunteers to aid in classification of galaxy morphology - check out the newest project using Euclid data, high resolution mapping of two thirds of our sky.
+I am part of the [Galaxy Zoo](https://www.zooniverse.org/projects/zookeeper/galaxy-zoo/) collaboration, a project that invites volunteers to aid in classification of galaxy morphology -- check out the newest project using Euclid data, high resolution mapping of two thirds of our sky.
 
 My pronouns are they/them.
 
