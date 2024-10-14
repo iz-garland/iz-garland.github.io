@@ -1,7 +1,7 @@
 # Dr. Izzy L. Garland
 
 ## About Me
-I am a postdoc at [Masaryk University](https://hea.physics.muni.cz/people/izzy.html) working with Dr. Michal Zajaček on supermassive black growth and AGN fuelling in the absence of major mergers. My most recent work uses data from Galaxy Zoo DESI, and analyses how the AGN fraction in strongly barred, weakly barred and unbarred galaxies compares. I love talking about my work at different institutes, so please contact me if you'd like me to deliver a seminar!
+I am a postdoc at [Masaryk University](https://hea.physics.muni.cz/team/izzy_garland) working with [Dr. Michal Zajaček](https://hea.physics.muni.cz/team/michal_zajacek) on supermassive black growth and AGN fuelling in the absence of major mergers. My most recent work uses data from Galaxy Zoo DESI, and analyses how the AGN fraction in strongly barred, weakly barred and unbarred galaxies compares. I love talking about my work at different institutes, so please contact me if you'd like me to deliver a seminar!
 
 In August 2024, I finished my PhD at [Lancaster University](https://www.lancaster.ac.uk/physics/about-us/people/isobelle-garland), working with [Dr. Brooke Simmons](https://www.lancaster.ac.uk/physics/about-us/people/brooke-simmons).
 
