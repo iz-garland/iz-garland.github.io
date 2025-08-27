@@ -48,7 +48,6 @@ Email: garland@mail.muni.cz
 
 Bluesky: [@izgarland.bsky.social](https://bsky.app/profile/izgarland.bsky.social)
 
-Twitter: [@Iz_garland](https://twitter.com/Iz_garland/)
 
 <!--### Markdown
 
