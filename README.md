@@ -21,11 +21,13 @@ I'm currently working on a project that looks at the relationship between AGN, b
 
 
 ## Additional Science Activities
-I co-convened the session at NAM2023 on [AGN Demographics and Evolution in the Era of Large-Scale Surveys](https://nam2023.org/science/parallel-sessions/details/2/15), and whilst attending, also decided to organise (in less that 48 hours, along with [Dr. Steph Campbell](https://astrostephcampbell.wordpress.com/)) a [lunch session](https://nam2023.org/science/block-schedule-dpcalendar/csl-lunch-session-lgbtq-networking-lunch) designed to help LGBTQ+ astronomers with networking.
+I convened the session at EAS2025 on [An Intersectional Approach to EDI Strategies](https://eas.unige.ch/EAS2025/session.jsp?id=SS51). 
 
 I convened the LGBTQ+ Networking Lunch at [IAU General Assembly](https://astronomy2024.org/), which ran in a similar fashion to the one at NAM the previous year, but for an international audience.
 
-I have previously given seminars at the University of St. Andrews (UK), University of Groningen (The Netherlands), INAF-Arcetri (Italy), INAF-OAS (Italy), University of Zurich (Switzerland), University of Innsbruck (Austria), ICE-CSIC (Spain) and Hertfordshire (UK). You can watch my most recent seminar [here](https://www.youtube.com/watch?v=qUVwc3ehZhE).
+I co-convened the session at NAM2023 on [AGN Demographics and Evolution in the Era of Large-Scale Surveys](https://nam2023.org/science/parallel-sessions/details/2/15), and whilst attending, also decided to organise (in less that 48 hours, along with [Dr. Steph Campbell](https://astrostephcampbell.wordpress.com/)) a [lunch session](https://nam2023.org/science/block-schedule-dpcalendar/csl-lunch-session-lgbtq-networking-lunch) designed to help LGBTQ+ astronomers with networking.
+
+I have previously given seminars at University of St. Andrews (UK), University of Groningen (The Netherlands), INAF-Arcetri (Italy), INAF-OAS (Italy), University of Zurich (Switzerland), University of Innsbruck (Austria), ICE-CSIC (Spain), University of Hertfordshire (UK), Masaryk University (Czech Republic), Lancaster University (UK), University of Lancashire (UK) and Oxford University (UK). You can watch my most recent recorded seminar [here](https://www.youtube.com/watch?v=qUVwc3ehZhE).
 
 ## Teaching and Outreach
 I enjoyed taking part in outreach sessions with [LUniverse Planetarium](https://www.lancaster.ac.uk/physics/outreach/planetarium/), bringing the wonder of space to schools and the wider public. We provided a 30 minute immersive tour of the solar system in the planetarium, and run crafts where children can design their own planet. This gets them to think imaginatively about what sort of planet humans could survive on. I've also been part of the Planetarium Team at events for the wider public, such as showcasing [brand new JWST images](https://www.lancaster.ac.uk/news/lancaster-university-chosen-to-showcase-first-ever-colour-images-of-early-universe-in-morecambe) in July 2022, and [UlverSTEM](https://fesp.org.uk/ulverstem/), a science festival for people living in and around Ulverston, Cumbria.
