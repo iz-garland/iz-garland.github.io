@@ -18,9 +18,7 @@ You can see my most recent published work, [Galaxy Zoo DESI: large-scale bars as
 
 
 I'm currently working on a project that looks at the relationship between AGN, bars and bulges, to disentangle the complex interactions. You can find a draft of this paper at [The complex relationships between AGN, bars and bulges](AGN_bars_bulges.pdf)
-I'm finishing off a project by an MSc student (Matt Fahey), using GALFIT to structurally decompose a sample of disk-dominated AGN hosts, imaged with HST. Check out the most recent version, submitted to MNRAS, at [Structural Decomposition of Merger-Free Galaxies Hosting Luminous AGNs](GALFIT_bulgeless_AGN.pdf).
 
-<!--I'm also working on controlling for bulge prominence during analysis of an AGN--bar link. You can see a draft of that paper at [AGN presence correlates independently with both large-scale bar strength and galactic bulge prominence](bulgeless_agn_bars.pdf)-->
 
 ## Additional Science Activities
 I co-convened the session at NAM2023 on [AGN Demographics and Evolution in the Era of Large-Scale Surveys](https://nam2023.org/science/parallel-sessions/details/2/15), and whilst attending, also decided to organise (in less that 48 hours, along with [Dr. Steph Campbell](https://astrostephcampbell.wordpress.com/)) a [lunch session](https://nam2023.org/science/block-schedule-dpcalendar/csl-lunch-session-lgbtq-networking-lunch) designed to help LGBTQ+ astronomers with networking.
